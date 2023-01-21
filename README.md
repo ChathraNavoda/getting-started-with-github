@@ -41,7 +41,7 @@ Then this is the course for you. In this short course, made using [GitHub Skills
   > **NOTE:** Open as many new tabs as you need to make following the steps easy to follow.
 </details>
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Create an issue</h2></summary>
 
 Welcome to "Getting started with GitHub"! :wave:

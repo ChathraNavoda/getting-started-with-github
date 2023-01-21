@@ -41,7 +41,7 @@ Then this is the course for you. In this short course, made using [GitHub Skills
   > **NOTE:** Open as many new tabs as you need to make following the steps easy to follow.
 </details>
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create an issue</h2></summary>
 
 Welcome to "Getting started with GitHub"! :wave:
@@ -112,7 +112,7 @@ These are the three tasks that is referenced in the "pill" shown earlier. Nice, 
   TBD-step-2-notes.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: TBD-step-2-name</h2></summary>
 
 _You did TBD-step-1-name! :tada:_
